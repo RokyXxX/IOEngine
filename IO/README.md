@@ -100,13 +100,7 @@ Replace `KEY_NAME` with constants like `vbKeyA`, `vbKeySpace`, etc. Refer to [Ke
 ## ✅ Notes
 
 * Ensure your macro settings allow Windows API calls.
-* Use `DoEvents` wisely to avoid freezing PowerPoint.
+* Use `DoEvents`  to avoid freezing PowerPoint.
 * This is a non-blocking, passive polling system.
-
----
-
-## 📄 License
-
-MIT License
 
 ---
