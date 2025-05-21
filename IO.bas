@@ -49,3 +49,5 @@ Private Sub Delay(Optional ms As Long = 10)
         DoEvents
     Loop
 End Sub
+
+' Documentation in IO/docs/
